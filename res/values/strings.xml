@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartWay to "my space"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    
+    
+    
+
+    <!-- Navigation Drawer -->
+    <string-array name="planets_array">
+        <item>Create Route</item>
+        <item>Map</item>
+        <item>Info</item>
+    </string-array>
+    <string-array name="titles_array">
+        <item>SmartWay to "my space"</item>
+        <item>Map</item>
+        <item>Info</item>
+       
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+
+  
+
+    <!-- Pycto Terms fragment -->
+    <string name="pycto_terms">\nThis project have two main  objectives: The project improves the traffic during the big local festival or events management. Moveover, its also provide to the users traffic condition of the important streets such as Paseig de Gracia, La Rablma and so on to evoid possible traffic congestion. \n\n\nYou can contact with us in:\  smartwaytomyspace@gmail.com\n\n 2015 Tr3s team\n\n\n</string>
+    <string name="pycto_terms_title">SmartWay to "my space"</string>
+
+   
+</resources>
